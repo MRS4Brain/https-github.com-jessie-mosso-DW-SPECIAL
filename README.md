@@ -28,6 +28,9 @@ is used to process the data out of **A_Create_study_bruker_JM_07122021_VF.m** an
 
 and the functions in the folder: **custom FID-A functions** 
 
+> Explist_dMRS_DWSPECIAL_JessieMosso_18122022.xlsx
+
+contains the list with experiment numbers for each rat used in this paper
 ## Folders description:
 > /custom_FID-A_functions
 > 
