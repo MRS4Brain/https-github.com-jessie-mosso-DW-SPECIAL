@@ -47,3 +47,7 @@ contains the raw data read after steps **A_Create_study_bruker_JM_07122021_VF.m*
 > /processed
 > 
 contains the processed data after **C_Preprocessing_FIDA_DWSPECIAL_13032024.m**
+
+> /Protocols
+> 
+contains written protocol for DW-SPECIAL acquisition and live demo at the scanner
